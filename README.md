@@ -8,11 +8,7 @@
 
 #### Back-end Instructions
 
-- Within this repo you will have noticed two folders entitled `node-backend-starter-code` and `ruby-backend-starter-code`. Each of these contains similar back-ends written in frameworks respective to their languages - Sinatra for Ruby and Express for Node.
-
-- Please **choose one** of the back-ends before you proceed. Feel free to pick whichever language you feel more comfortable in.
-
-- Both back-ends contain several errors that commonly made by students, so you will need to do some debugging to ensure they are working correctly.
+- The Node backend is served from the **server.js** file. Basic Node and Express application utilizing RESTful routes.
 
 #### Front-end Instructions
 
